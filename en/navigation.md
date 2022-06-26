@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Motivation wiki
 
 
 <!--
@@ -19,8 +19,13 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[MDwiki docs](http://dynalon.github.io/mdwiki/#!index.md)
+
+[ESP32]()
+
+   * # Basics
+   * [Hello ESP32!](hello-esp32.md)
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
