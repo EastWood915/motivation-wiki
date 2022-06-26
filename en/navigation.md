@@ -24,7 +24,7 @@
 [ESP32]()
 
    * # Basics
-   * [Hello ESP32!](hello-esp32.md)
+   * [Hello ESP32!](pages/hello-esp32.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
