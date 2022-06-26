@@ -1,5 +1,6 @@
 # How to run ESP32 on VM
 
+
 ## Download and run the VM
 
    * Download and install the VMWare Player from [here](https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-PLAYER-1623-NEW&productId=1039&rPId=85399).
@@ -10,12 +11,14 @@
       * Login: user
       * Password: user
 
+
 ## Connect the devboard
 
    * Start console and type in ```bash ls -la /dev/ttyUSB*```. There should be no devices listed. If there is any, just remember its name.
    * Connect ESP32 devboard to the computer.
    * Move your coursor to the top of the screen. A VMWare bar should appear. Select Virtual Machine → Removable Devices → Silicon CP2102 USB to UART Bridge Controller → Connect
    * Go back to the terminal window and run again ```bash ls -la /dev/ttyUSB*```. A new device should appear - this is your board.
+
 
 ## Check if everything works
 
